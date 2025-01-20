@@ -4,7 +4,7 @@ Welcome! I'm Jack Kamataris, a double major in Robotics Engineering and Electric
 
 ## Technical Expertise
 
-  - Programming: Proficient in Python, C, C++, C#, Verilog, and VHDL with strong foundations in Object-Oriented Programming, large-scale software integration, gate-level programming, and hardware-software co-design for complex systems.
+  - Programming: Proficient in Python, Java, C, C++, C#, Verilog, and VHDL with strong foundations in Object-Oriented Programming, large-scale software integration, gate-level programming, and hardware-software co-design for complex systems.
   - Hardware Development: Experience with STM32 microcontrollers, ESP32 development, FPGA development (Basys 3, Terasic DE10-Nano, Xilinx boards), and Raspberry Pi for hardware-software integration (ranging from Pi Pico to Raspberry Pi 5).
   - Coil Systems Design: Designed advanced coil systems capable of eliminating magnetic fields down to 0 nT for use in magnetically sensitive environments such as quantum research and medical imaging, utilizing mathematical and physics-based simulations.
   - Robotic Automation: Developed precise and reliable robotic systems for automation, combining software efficiency with robust hardware design. Also completed extensive work in the dynamic control of 4DOF systems.
